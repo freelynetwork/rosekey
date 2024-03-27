@@ -12792,7 +12792,7 @@ packages:
     resolution: {integrity: sha512-LzVij57X/gK4Y6LpcDdqj+R9WCpD6Sv3ZH85GMA+S3xgPGCz81mHql4GiSnF4GijRjk7TE0ja2sDr8FFYKLe2g==}
     dependencies:
       data-uri-to-buffer: 0.0.3
-      jpeg-js: 0.3.7
+      jpeg-js: 0.4.4
       mime-types: 2.1.35
       ndarray: 1.0.19
       ndarray-pack: 1.2.1
@@ -14606,7 +14606,7 @@ packages:
       '@sideway/pinpoint': 2.0.0
     dev: true
 
-  /jpeg-js@0.3.7:
+  /jpeg-js@0.4.4:
     resolution: {integrity: sha512-9IXdWudL61npZjvLuVe/ktHiA41iE8qFyLB+4VDTblEsWBzeg8WQTlktdUK4CdncUqtUgUg0bbOmTE2bKBKaBQ==}
     dev: false
 
