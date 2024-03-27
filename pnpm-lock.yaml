@@ -4245,7 +4245,7 @@ packages:
       '@types/long': 4.0.2
       lodash.camelcase: 4.3.0
       long: 4.0.0
-      protobufjs: 7.2.3
+      protobufjs: 7.2.4
       yargs: 17.7.2
     dev: false
 
@@ -13004,7 +13004,7 @@ packages:
       node-fetch: 2.7.0
       object-hash: 3.0.0
       proto3-json-serializer: 1.1.1
-      protobufjs: 7.2.3
+      protobufjs: 7.2.4
       protobufjs-cli: 1.1.1(protobufjs@7.2.3)
       retry-request: 5.0.2
     transitivePeerDependencies:
@@ -17656,15 +17656,15 @@ packages:
     resolution: {integrity: sha512-AwAuY4g9nxx0u52DnSMkqqgyLHaW/XaPLtaAo3y/ZCfeaQB/g4YDH4kb8Wc/mWzWvu0YjOznVnfn373MVZZrgw==}
     engines: {node: '>=12.0.0'}
     dependencies:
-      protobufjs: 7.2.3
+      protobufjs: 7.2.4
     dev: false
 
-  /protobufjs-cli@1.1.1(protobufjs@7.2.3):
+  /protobufjs-cli@1.1.1(protobufjs@7.2.4):
     resolution: {integrity: sha512-VPWMgIcRNyQwWUv8OLPyGQ/0lQY/QTQAVN5fh+XzfDwsVw1FZ2L3DM/bcBf8WPiRz2tNpaov9lPZfNcmNo6LXA==}
     engines: {node: '>=12.0.0'}
     hasBin: true
     peerDependencies:
-      protobufjs: ^7.0.0
+      protobufjs: ^7.2.4
     dependencies:
       chalk: 4.1.2
       escodegen: 1.14.3
@@ -17673,13 +17673,13 @@ packages:
       glob: 8.1.0
       jsdoc: 4.0.2
       minimist: 1.2.8
-      protobufjs: 7.2.3
+      protobufjs: 7.2.4
       semver: 7.5.4
       tmp: 0.2.2
       uglify-js: 3.17.4
     dev: false
 
-  /protobufjs@7.2.3:
+  /protobufjs@7.2.4:
     resolution: {integrity: sha512-TtpvOqwB5Gdz/PQmOjgsrGH1nHjAQVCN7JG4A6r1sXRWESL5rNMAiRcBQlCAdKxZcAbstExQePYG8xof/JVRgg==}
     engines: {node: '>=12.0.0'}
     requiresBuild: true
