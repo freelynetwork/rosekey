@@ -1,3 +1,12 @@
+# Project Migration Notice / プロジェクト移行のお知らせ
+
+This repository has been migrated to [164.CODE](https://code.164.one/master/rosekey). / このリポジトリは[164.CODE](https://code.164.one/master/rosekey)に移行しました。
+
+The Rosekey project is now individually operated by 16439s, not managed by FREELYNETWORK. / Rosekeyプロジェクトは16439s氏の個人運営になりました。FREELYNETWORKの管理下ではありません。
+
+
+
+
 <div align="center">
 <a href="https://misskey-hub.net">
 	<img src="./assets/title_float_cherrypick.svg" alt="CherryPick logo" style="border-radius:50%" width="300"/>
